@@ -1,5 +1,5 @@
 # WebGL 2.0 particles test, take 2
-View online at http://toji.github.io/webgl2-particles-2/
+View online at http://StephanieSunshine.github.io/webgl2-particles-2/
 
 Uses Transform Feedback, a new feature of WebGL 2.0, to simulate 1 million particles.
 
